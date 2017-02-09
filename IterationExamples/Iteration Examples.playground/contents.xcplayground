@@ -3,6 +3,7 @@
     <pages>
         <page name='Introduction'/>
         <page name='Iteration'/>
-        <page name='Example'/>
+        <page name='Exercise'/>
+        <page name='Challenge'/>
     </pages>
 </playground>

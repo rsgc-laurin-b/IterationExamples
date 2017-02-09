@@ -2,7 +2,7 @@
 //: # Exercise
 //: Say that we want to create an output image like this on a 300x300 canvas:
 //:
-//: ![example](example.png "Timeline")
+//: ![example](example.png "Example")
 //:
 //: At first glance this may seem like a complicated image.
 //:
